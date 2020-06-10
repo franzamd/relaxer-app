@@ -11,4 +11,8 @@ A relaxing breathing app with a visual director to tell you when to breathe in, 
 
 ## Sources
 [RelaxerApp Github](https://github.com/bradtraversy/vanillawebprojects/blob/master/relaxer-app/README.md)
+
 [Breathe & Relax App - JavaScript & CSS Animations](https://www.youtube.com/watch?v=l-1ZrU6avzI)
+
+# Demo
+You can view in [RelaxerApp](https://franzamd.github.io/relaxer-app/)
